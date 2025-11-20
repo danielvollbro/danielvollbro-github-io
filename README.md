@@ -36,3 +36,4 @@ running the following command:
 ````shell
 convert <source_img_path> -resize 2x2 -quality 20 <target_img_path>
 ````
+
