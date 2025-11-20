@@ -4,12 +4,10 @@ on:
   push:
     paths:
       - "_javascript/**/*.js"
-      - ".github/workflows/scripts/**/*.js"
       - "*.js"
   pull_request:
     paths:
       - "_javascript/**/*.js"
-      - ".github/workflows/scripts/*.js"
       - "*.js"
 
 jobs:
